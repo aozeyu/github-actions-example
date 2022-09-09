@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class GithubCicdActionsApplication {
 	@GetMapping("/welcome")
 	public String Welcome() {
-		return "Welcome to my blog!!";
+		return "Welcome to my yaozeyu's blog!!";
 	}
 
 //	echo "# github-actions-example" >> README.md
